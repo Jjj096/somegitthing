@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'some code'
+echo 'some patched code'
